@@ -1,0 +1,17 @@
+{
+    "name": "Save.Commands",
+    "rootNamespace": "",
+    "references": [
+        "Save",
+        "Commands"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Cyrm",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e50554b4a24d1cf4cba58cdea7e128cb",
+        "GUID:c7ff1ffcee8f26d4fbb205fd491a9e24",
+        "GUID:3512b78a2c99f5e46b6a3a640aeafbde",
+        "GUID:4828a4d8cb1ab874490e54985e91d203",
+        "GUID:9adcc7d70461de943b5d42842bc1a617",
+        "GUID:65d94b50edf61e047897745a0fc23cb1",
+        "GUID:c07050540e243f34fbf64f75c2284765",
+        "GUID:d732e459bb6e97f4494c93762477b5ed",
+        "GUID:23d980e02330b0b429b9ef50a969d11d",
+        "GUID:4affb683b315c01498faf822f8cf0e57"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

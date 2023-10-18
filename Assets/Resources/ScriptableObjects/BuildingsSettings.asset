@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817ca787f10e222439a6815fbefbc1cc, type: 3}
+  m_Name: BuildingsSettings
+  m_EditorClassIdentifier: 
+  _uiSettings:
+  - _type: 0
+    _sprite: {fileID: 21300000, guid: 8163298214cd4d340b2c8ce1b2f61a48, type: 3}
+    _name: Resource
+  - _type: 1
+    _sprite: {fileID: 21300000, guid: feac2e5a06c39864285e8974744c9202, type: 3}
+    _name: Recycle
+  - _type: 2
+    _sprite: {fileID: 21300000, guid: 9adbe9e02f41e4e44aff834013d3f3c8, type: 3}
+    _name: Market
+  _resourceCraftSettings:
+    _craftTime: 5
+    _craftAmount: 1
+  _recycleCraftSettings:
+    _craftTime: 2
+    _resourcesCount: 2
+    _recipes:
+    - _resources:
+      - Item: 1
+        Amount: 1
+      - Item: 2
+        Amount: 1
+      _tool:
+        Item: 4
+        Amount: 1
+    - _resources:
+      - Item: 1
+        Amount: 1
+      - Item: 3
+        Amount: 1
+      _tool:
+        Item: 5
+        Amount: 1
+    - _resources:
+      - Item: 2
+        Amount: 1
+      - Item: 3
+        Amount: 1
+      _tool:
+        Item: 6
+        Amount: 1

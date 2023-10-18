@@ -1,0 +1,20 @@
+{
+    "name": "Inventory.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:3512b78a2c99f5e46b6a3a640aeafbde",
+        "GUID:c7ff1ffcee8f26d4fbb205fd491a9e24",
+        "GUID:e50554b4a24d1cf4cba58cdea7e128cb",
+        "GUID:4828a4d8cb1ab874490e54985e91d203"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

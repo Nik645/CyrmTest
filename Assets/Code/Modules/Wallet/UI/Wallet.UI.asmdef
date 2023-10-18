@@ -1,0 +1,19 @@
+{
+    "name": "Wallet.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9adcc7d70461de943b5d42842bc1a617",
+        "GUID:65d94b50edf61e047897745a0fc23cb1",
+        "GUID:e50554b4a24d1cf4cba58cdea7e128cb",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

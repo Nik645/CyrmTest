@@ -1,0 +1,19 @@
+{
+    "name": "Inventory.Commands",
+    "rootNamespace": "",
+    "references": [
+        "Commands",
+        "Inventory",
+        "Wallet",
+        "Wallet.Commands"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

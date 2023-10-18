@@ -1,0 +1,17 @@
+{
+    "name": "Wallet.Commands",
+    "rootNamespace": "",
+    "references": [
+        "Wallet",
+        "Commands"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
